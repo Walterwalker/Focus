@@ -8,7 +8,14 @@ In my case, I use a productivity tool called rescue time and my code will block 
 
 Motivation of the project:
 
-I have really hard time in managing my day. I always feel that I waste time in some or the other way as I will be always the last gut to submit my assignments and meet deadlines, despite sitting before computer for long time.
+I have really hard time in managing my day. I always feel that I waste time in some or the other way as I will be always the last gut to submit my assignments and meet deadlines, despite sitting before computer for long time. I have installed rescue time tracker and to my surprise I came to know that I spend most of the time on youtube or quora knowingly or unknowlingly.
 
 Tools and packages used:
 
+this project is built in python using time and selenium python packages.
+
+Selenium: A browser automation tool which I used to scrape my productivity score every hour calculated by rescuetime website.
+time package: Used for scheduling the script.
+browser: chrome.
+
+I am using it since two days and so far I can say that there is an improvement in my work time.
