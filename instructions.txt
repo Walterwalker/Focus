@@ -1,0 +1,9 @@
+Running instructions
+
+
+Copy paste the entire code to a text editor or any python IDE of your choice and save it with .py extension in the directory where you have python setup installed.
+create a hosts file as shown and save it with .txt extension
+run .py file in command prompt as an administrator.
+
+
+BOOM!!
