@@ -12,10 +12,14 @@ I have really hard time in managing my day. I always feel that I waste time in s
 
 Tools and packages used:
 
-this project is built in python using time and selenium python packages.
+this project is built in python using time, schedule,smtplib and selenium python packages.
 
 Selenium: A browser automation tool which I used to scrape my productivity score every hour calculated by rescuetime website.
 time package: Used for scheduling the script.
 browser: chrome.
 
 I am using it since two days and so far I can say that there is an improvement in my work time.
+
+This is a part of my other project where I designed a system that tracks all my activities and suggests improvments.
+
+This can be used by anyone. All you need is a rescue time account from rescuetime.com which ranks all the websites you have browsed and calculates your productivity.
